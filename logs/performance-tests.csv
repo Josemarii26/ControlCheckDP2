@@ -1,0 +1,2 @@
+timestamp,test-class,test-method,time,description,result
+"2022-06-03 07:29:12.415","acme.testing.inventor.chimpum.Chimpum4UpdateTest","InventorUpdateChimpumPositiveTest",2121,""[1] recordIndex=0, code=ABC-126, title=prueba2, description=hola2, startsAt=2022/09/15 15:22, finishesAt=2022/12/22 15:22, budget=EUR 60.00, link=https://google.com"","Cannot find 'By.xpath: //div[@id='mainMenu']/ul/li/a[normalize-space()='Sign in']'"
